@@ -4,7 +4,7 @@ matplotlib
 scikit-learn
 python-dotenv
 ipytest
-tensorflow
+tensorflow==2.15.0
 sagemaker==2.192.1
 sagemaker[local]
 ruff
@@ -12,3 +12,4 @@ nbformat
 nbdev
 nbclient
 ipykernel
+jupyterlab==3.0.17
